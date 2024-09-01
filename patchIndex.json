@@ -58,5 +58,15 @@
       "ManifestId":2218992975128065135,
       "IsSteam":true,
       "IsBeta":false
+   },
+   {
+      "PatchName":"Better Than Axiom",
+      "PatchShorthand":"BTA",
+      "PatchDescription":"A version of Gorilla Tag that is be updated just like lemming did in the old days! Back to single-dev goodness.",
+      "PatchLink":"https://github.com/Loafiat/patchesBTA/raw/main/xdelta/BTA.xdelta",
+      "GameLink":null,
+      "ManifestId":9135927600518209669,
+      "IsSteam":true,
+      "IsBeta":false
    }
 ]
